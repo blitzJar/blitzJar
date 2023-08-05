@@ -6,7 +6,6 @@
 - 🔓 opensource & 📚 openaccess advocate
 
 
-
 ## ⚡ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -27,12 +26,17 @@
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 
----
+
+## 📱 Socials
+<p>
+<a href="https://www.kaggle.com/prash4nt"> <img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" height="20" width="100" alt="prash4nt" /></a>
+</p>
+
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-```
-not on any social media for now
-```
+
+
 <!---
 stoutjar/stoutjar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
