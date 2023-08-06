@@ -29,7 +29,7 @@
 
 ## 📱 Socials
 <p>
-<a href="https://www.kaggle.com/prash4nt"> <img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" height="20" width="100" alt="prash4nt" /></a>
+<a href="https://www.kaggle.com/prash4nt" target="_blank"> <img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" height="20" width="100" alt="prash4nt" /></a>
 </p>
 
 
