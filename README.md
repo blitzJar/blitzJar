@@ -25,12 +25,12 @@
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 
-
+<!---
 ## 📱 Socials
 <p>
 <a href="https://www.kaggle.com/prash4nt" target="_blank"> <img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" height="20" width="100" alt="prash4nt" /></a>
 </p>
-
+--->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
