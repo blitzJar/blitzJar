@@ -1,5 +1,6 @@
 ## 👋 Hello
 
+I'm Jar!
 - 🧮🔬 studying maths
 - 🔍 data explorer, 🌐 insight seeker
 - 🛠️ breaker and builder of thinggs
