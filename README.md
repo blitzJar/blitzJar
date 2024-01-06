@@ -1,4 +1,4 @@
-## 👋 Greetings! I'm Prashant
+## 👋 Hello
 
 - 🧮🔬 studying maths
 - 🔍 data explorer, 🌐 insight seeker
